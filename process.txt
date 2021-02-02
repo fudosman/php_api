@@ -1,0 +1,23 @@
+getproducts
+admin add product
+admin get products
+admin update product
+admin publish product
+admin unpublish product
+admin get users
+admin get orders
+admin clear orders
+user signup
+
+
+
+user update profile
+user get profile
+user get orders
+user resetpassword
+
+
+user forgotpassword
+user place order
+user login
+admin login
